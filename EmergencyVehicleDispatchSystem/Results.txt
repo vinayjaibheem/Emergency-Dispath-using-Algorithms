@@ -1,0 +1,6 @@
+                  ID         VEHICLE_TYPE      DESTINATION_ZIP           VEHICLE_ID             DISTANCE 
+                   1                    1                64108                  101                    0  
+                   2                    2                64111                  107                    4  
+                   3                    3                64109                  103                    0  
+                   4                    3                64110                  106                    4  
+                   5                    2                64110                  105                    0  
